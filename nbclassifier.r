@@ -1,4 +1,4 @@
-# Install required packages. #
+# Install required packages (needed to download the data). #
 install.packages('mlbench')
 library('mlbench')
 
